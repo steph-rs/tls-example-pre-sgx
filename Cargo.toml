@@ -1,0 +1,10 @@
+[package]
+name = "untitled1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+rustls = "0.22.4"
+webpki-roots = "0.26.8"
+
